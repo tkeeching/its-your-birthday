@@ -6,6 +6,7 @@ import {
 } from "react-router-dom";
 import './App.css';
 import { TweenMax, TimelineLite, Power3 } from 'gsap';
+import _ from 'lodash';
 
 function Name() {
   let { name } = useParams();
@@ -16,7 +17,7 @@ function Name() {
     tl0.from(line0, 1.3, {y: 2000, ease: Power3.easeOut})
   })
 
-  return <h1 ref={el => line0 = el}>Hello {name},</h1>
+  return <h1 ref={el => line0 = el}>Hello {_.capitalize(name)},</h1>
 }
 
 function App() {
