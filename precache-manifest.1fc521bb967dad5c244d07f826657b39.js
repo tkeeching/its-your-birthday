@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae7ee931e012280a3061ae2400450319",
+    "revision": "b8f202bf286cb697b400b0f3178badfb",
     "url": "/its-your-birthday/index.html"
   },
   {
-    "revision": "a27daf776edd10642581",
+    "revision": "4d9a637a70f48a6fb661",
     "url": "/its-your-birthday/static/css/main.7caa9482.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/its-your-birthday/static/js/2.83a625d4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a27daf776edd10642581",
-    "url": "/its-your-birthday/static/js/main.6ecfa7da.chunk.js"
+    "revision": "4d9a637a70f48a6fb661",
+    "url": "/its-your-birthday/static/js/main.5ae1540a.chunk.js"
   },
   {
     "revision": "7e37b7dd2901965fc8d8",

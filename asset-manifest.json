@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/its-your-birthday/static/css/main.7caa9482.chunk.css",
-    "main.js": "/its-your-birthday/static/js/main.6ecfa7da.chunk.js",
-    "main.js.map": "/its-your-birthday/static/js/main.6ecfa7da.chunk.js.map",
+    "main.js": "/its-your-birthday/static/js/main.5ae1540a.chunk.js",
+    "main.js.map": "/its-your-birthday/static/js/main.5ae1540a.chunk.js.map",
     "runtime-main.js": "/its-your-birthday/static/js/runtime-main.6df18c22.js",
     "runtime-main.js.map": "/its-your-birthday/static/js/runtime-main.6df18c22.js.map",
     "static/js/2.83a625d4.chunk.js": "/its-your-birthday/static/js/2.83a625d4.chunk.js",
     "static/js/2.83a625d4.chunk.js.map": "/its-your-birthday/static/js/2.83a625d4.chunk.js.map",
     "index.html": "/its-your-birthday/index.html",
-    "precache-manifest.06c4e940a51cf5e9c271ddaefa23d809.js": "/its-your-birthday/precache-manifest.06c4e940a51cf5e9c271ddaefa23d809.js",
+    "precache-manifest.1fc521bb967dad5c244d07f826657b39.js": "/its-your-birthday/precache-manifest.1fc521bb967dad5c244d07f826657b39.js",
     "service-worker.js": "/its-your-birthday/service-worker.js",
     "static/css/main.7caa9482.chunk.css.map": "/its-your-birthday/static/css/main.7caa9482.chunk.css.map",
     "static/js/2.83a625d4.chunk.js.LICENSE.txt": "/its-your-birthday/static/js/2.83a625d4.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6df18c22.js",
     "static/js/2.83a625d4.chunk.js",
     "static/css/main.7caa9482.chunk.css",
-    "static/js/main.6ecfa7da.chunk.js"
+    "static/js/main.5ae1540a.chunk.js"
   ]
 }
