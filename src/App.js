@@ -8,7 +8,7 @@ import './App.css';
 import { TweenMax, TimelineLite, Power3 } from 'gsap';
 
 function Name() {
-  const { name } = useParams();
+  let { name } = useParams();
   let line0 = useRef(null);
   let tl0 = new TimelineLite({ delay: 1 })
 
