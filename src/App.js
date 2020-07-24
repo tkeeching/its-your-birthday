@@ -37,23 +37,21 @@ function App() {
 
   return (
     <div className="App pyro" ref={el => container = el}>
+      <div className="before"></div>
       <Switch>
         <Route path="/:name">
           <Name />
           <h1 ref={el => line1 = el}>It's</h1>
           <h1 ref={el => line2 = el}>your</h1>
           <h1 ref={el => line3 = el}>birthday!</h1>
-          <div className="before"></div>
-          <div className="after"></div>
         </Route> 
         <Route path="/">
           <h1 ref={el => line1 = el}>It's</h1>
           <h1 ref={el => line2 = el}>your</h1>
           <h1 ref={el => line3 = el}>birthday!</h1>
-          <div className="before"></div>
-          <div className="after"></div>
         </Route>
       </Switch>
+      <div className="after"></div>
     </div>
   );
 }
