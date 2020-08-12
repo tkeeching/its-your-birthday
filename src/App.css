@@ -33,6 +33,38 @@
   color: #61dafb;
 }
 
+input {
+  display: block;
+  border: none;
+  background: none;
+  font-family: inherit;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  margin: 20px 0;
+}
+
+input:focus {
+  outline: none;
+}
+
+textarea {
+  display: block;
+  border: none;
+  background: none;
+  font-family: inherit;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  margin: 20px 20px;
+  overflow-y: auto;
+  word-wrap: break-word;
+}
+
+textarea:focus {
+  outline: none;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
